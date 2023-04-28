@@ -1,4 +1,3 @@
-package monopolyV0;
 
 public class AllerPrison extends Case {
 
@@ -6,6 +5,4 @@ public class AllerPrison extends Case {
         super("Aller en Prison");
     }
 
-  
 }
-

@@ -1,4 +1,3 @@
-package monopolyV0;
 
 public class Depart extends Case {
 
@@ -6,4 +5,3 @@ public class Depart extends Case {
         super("Depart");
     }
 }
-
